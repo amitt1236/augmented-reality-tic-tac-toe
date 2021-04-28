@@ -19,14 +19,14 @@ At game start 3 windows are opened.
 2 opencv windows user and msak.    
 and a photo preview window.    
 
-##photo preview 
+## photo preview 
 This is our output to the projector.   
 this was implemented using python pillow library and controlled by boardcreate.py.  
 
-##mask
+## mask
 A mask of the game board using the birdseyeview.  
 
-##user 
+## user 
 user interface.  
 uses keyboard commennds as follows: (there's a text in the left corner indicateing the game phase). 
 
