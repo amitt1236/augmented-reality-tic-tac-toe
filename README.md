@@ -1,13 +1,14 @@
 # augmented reality tic-tac-toe
 
-tic tac tow game using opencv.
+tic tac toe game using opencv.  
+a projector project the game board to the wall. and a webcam capture the ball hits.
 
 # quick rundown
 1.geting input from webcam.   
 2.projecting the game board.    
 3.calibrate the cemara with board corners (selecting them manually).  
 4.creating a birdseyeview of the game board using our corners.  
-5.creating a mask to the ball color.  
+5.creating a mask to the ball color (blue).  
 6.checking where the ball hits.   
 7.displaying the result.  
 
