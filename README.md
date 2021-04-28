@@ -15,8 +15,8 @@ tic tac tow game using opencv.
 
 # Game interface 
 
-At game start 3 windows are opened.    
-2 opencv windows user and msak.    
+At game start 3 windows will open.    
+2 opencv windows: user and msak.    
 and a photo preview window.    
 
 ## photo preview 
@@ -36,3 +36,5 @@ uses keyboard commennds as follows: (there's a text in the left corner indicatei
 4 = selects bottom left corner of the board.  
 5 = starts the music.  
 r = restarts the game.   
+
+note: corners are selected using the mouse, just click on the correct corner.
