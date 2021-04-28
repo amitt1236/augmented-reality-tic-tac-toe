@@ -3,8 +3,8 @@
 tic tac tow game using opencv.
 
 # quick rundown
-1.geting input from webcam.
-2.projecting the game board
+1.geting input from webcam. \ 
+2.projecting the game board \ 
 3.calibrate the cemara with board corners (selecting them manually).
 4.creating a birdseyeview of the game board using our corners.
 5.creating a mask to the ball color.
