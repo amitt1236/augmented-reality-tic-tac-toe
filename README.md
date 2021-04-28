@@ -1,3 +1,3 @@
-# augmented_reality-tic_tac_toe
+# augmented reality tic-tac-toe
 
 tic tac tow game using opencv.
