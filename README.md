@@ -1,5 +1,5 @@
 # augmented reality tic-tac-toe. 
-![](./board.jpeg)
+![](./board.jpg)
 
 ![](./first.GIF)
 
