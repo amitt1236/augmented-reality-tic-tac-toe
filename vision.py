@@ -35,7 +35,7 @@ boardcreate.update(board)
 restart = False
 
 #ball dedection threshold 
-threshold = 500
+threshold = 700
 
 #reset music
 def reset():
@@ -80,8 +80,8 @@ while cap.isOpened():
         restart = True
     if key == ord('r'):
         board = tic.initial_state()
-        boardcreate.update(board)
-        reset = True
+        turn = "X"
+        restart = True
 
     if text == 'top left':
         corner1 = cord
