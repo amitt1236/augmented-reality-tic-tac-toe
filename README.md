@@ -1,5 +1,5 @@
 # augmented reality tic-tac-toe
-![alt-text]<img src="1.gif" width = "300">
+![alt-text](1.gif)
 
 tic tac toe game using opencv.  
 a projector project the game board to the wall. and a webcam capture the ball hits.
