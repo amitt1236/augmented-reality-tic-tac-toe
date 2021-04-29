@@ -4,7 +4,7 @@
 ![](./first.GIF)
 
 tic tac toe game using opencv, pillow, pygame and numpy. 
-The game needs a projector to project the game board to the wall. and a webcam capture the ball hits. i'm using logitec steamcam.  
+The game needs a projector to project the game board to the wall, and a webcam capture the ball hits, i'm using logitec steamcam.  
   
 opencv- getting the webcam input and determining the ball hits.  
 pillow- creating the game board.   
