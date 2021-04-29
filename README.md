@@ -31,7 +31,7 @@ and a photo preview window.
 This is our output to the projector.   
 this was implemented using python pillow library and controlled by boardcreate.py.  
 
-## mask
+## mask(blue color)
 A mask of the game board using the birdseyeview.  
 
 ## user 
