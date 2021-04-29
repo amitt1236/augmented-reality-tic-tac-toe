@@ -1,9 +1,14 @@
 # augmented reality tic-tac-toe. 
+![](./board.jpeg)
 
-![Alt text](./2.gif)
+![](./first.GIF)
 
-tic tac toe game using opencv.  
-a projector project the game board to the wall. and a webcam capture the ball hits.
+tic tac toe game using opencv, pillow, pygame and numpy
+The game needs aprojector to project the game board to the wall. and a webcam capture the ball hits.  
+  
+opencv- getting the webcam input and determining the ball hits.  
+pillow- creating the game board. 
+pygame- music. 
 
 # quick rundown
 1.geting input from webcam.   
