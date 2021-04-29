@@ -35,7 +35,7 @@ boardcreate.update(board)
 restart = False
 
 #ball dedection threshold 
-threshold = 700
+threshold = 500
 
 #reset music
 def reset():
@@ -190,7 +190,7 @@ while cap.isOpened():
         '''
         # set lower and upper color limits
         lower_val = (100,30,0)
-        upper_val = (170,255,255)
+        upper_val = (180,255,255)
         # Threshold the HSV image to get only green colors
         blurred = cv2.GaussianBlur(grid, (11, 11), 0) 
         # convert to HSV
