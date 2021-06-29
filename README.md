@@ -3,14 +3,14 @@
 
 ![](./first.GIF)
 
-tic tac toe game using opencv, pillow, pygame and numpy. 
+tic-tac-toe game using opencv, pillow, pygame and numpy. 
 The game needs a projector to project the game board to the wall, and a webcam capture the ball hits, i'm using logitec streamcam.  
   
 opencv- getting the webcam input and determining the ball hits.  
 pillow- creating the game board.   
 pygame- music. 
 
-# quick rundown
+# Quick rundown
 1.geting input from webcam.   
 2.projecting the game board.    
 3.calibrate the cemara with board corners (selecting them manually).  
